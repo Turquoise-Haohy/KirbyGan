@@ -20,7 +20,11 @@ Seeing the famous PokemonGan, as a Kirby favor, I intent to create a Gan special
 **Video of several example**
 
 
-https://user-images.githubusercontent.com/73295564/175955974-6e46c677-b84c-4eda-aab6-8a818590f7b4.mp4
+
+
+https://user-images.githubusercontent.com/73295564/175958426-f464f56c-b572-477d-8176-80e634e29413.mp4
+
+
 
 
 ---
@@ -94,7 +98,12 @@ and also someone has established API on Colab with some pre-trained model as `.p
 
 the model has many specific version requirement in terms of downloading the packages, I finnaly find this tutorials by Jeff Heaton suits what I want: 
 [video tutorial on youtube](https://youtu.be/R546LYsQk5M)
+
+---
+
 [github Link of the process](https://github.com/jeffheaton/t81_558_deep_learning.git)
+
+---
 
 each 10 ticks, the model would generate a series of fake images, seeing the development:
 
