@@ -121,7 +121,7 @@ each 10 ticks, the model would generate a series of fake images, seeing the deve
 
 ---
 
-# Relection
+# Reflection
 
 As the feature of kirby is becoming various shapes and stuffs, so I am quite comfortable about the final results that the images seem to be like fluid, hahahah..
 But my kirby do not have feet...I guess this is due to my dataset is not so clearly as my processing of the images is not enough with various backgrounds in each images. 
