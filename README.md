@@ -22,7 +22,11 @@ Seeing the famous PokemonGan, as a Kirby favor, I intent to create a Gan special
 
 
 
-https://user-images.githubusercontent.com/73295564/175958426-f464f56c-b572-477d-8176-80e634e29413.mp4
+
+
+https://user-images.githubusercontent.com/73295564/175959491-e455fe2f-d79d-44fe-804c-819271c4fbee.mp4
+
+
 
 
 
